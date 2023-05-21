@@ -1,0 +1,29 @@
+{
+  "category": "Trivia",
+  "questions": [
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "answer": "Australia"
+    },
+    {
+      "question": "Who is credited with inventing the telephone?",
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "What is the largest land animal?",
+      "answer": "African elephant"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan"
+    },
+    {
+      "question": "Who wrote the novel To Kill a Mockingbird?",
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "answer": "O"
+    }
+  ]
+}

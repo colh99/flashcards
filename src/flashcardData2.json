@@ -1,0 +1,25 @@
+{
+  "category": "Soccer",
+  "questions": [
+    {
+      "question": "Who won the FIFA World Cup in 2018?",
+      "answer": "France"
+    },
+    {
+      "question": "Which country has won the most UEFA Champions League titles?",
+      "answer": "Real Madrid"
+    },
+    {
+      "question": "Who is the all-time leading goal scorer for Barcelona?",
+      "answer": "Lionel Messi"
+    },
+    {
+      "question": "Which country has won the most Copa America titles?",
+      "answer": "Uruguay"
+    },
+    {
+      "question": "Who won the UEFA Euro 2020 championship?",
+      "answer": "Italy"
+    }
+  ]
+}

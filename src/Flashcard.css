@@ -1,0 +1,80 @@
+.flashcard {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  height: 8rem;
+  align-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 1.5em;
+  vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+.card:hover {
+  background-color: #f0f0f0;
+}
+
+.card.question {
+  color: #333;
+}
+
+.card.answer {
+  color: #00a143;
+}
+
+.next-button,
+.switch-button {
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.next-button {
+  background-color: #007bff;
+  font-size: 1.5rem;
+  margin: 1em 2em 1em 2em;
+}
+
+.switch-button {
+  background-color: #3c008b;
+}
+
+.next-button:hover,
+.switch-button:hover {
+  background-color: #0056b3;
+}
+
+.flashcard-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.card-number {
+  font-size: 14px;
+  color: #777;
+}
+
+.flashcard-set-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}

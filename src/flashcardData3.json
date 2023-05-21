@@ -1,0 +1,46 @@
+{
+    "category": "Programming",
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "answer": "HTML stands for Hypertext Markup Language."
+      },
+      {
+        "question": "What is the best way to come up with a bunch of sample questions?",
+        "answer": "ChatGPT. It will even format the JSON for you."
+      },
+      {
+        "question": "What is the purpose of a constructor function?",
+        "answer": "To create and initialize objects"
+      },
+      {
+        "question": "What does API stand for?",
+        "answer": "Application Programming Interface"
+      },
+      {
+        "question": "What is the difference between `let`, `const`, and `var` in JavaScript?",
+        "answer": "`let` and `const` have block scope, while `var` has function scope"
+      },
+      {
+        "question": "What is recursion in programming?",
+        "answer": "A function calling itself"
+      },
+      {
+        "question": "What is the purpose of version control systems like Git?",
+        "answer": "To track and manage changes to source code"
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step procedure for solving a problem"
+      },
+      {
+        "question": "What is the difference between synchronous and asynchronous programming?",
+        "answer": "Synchronous programming executes code sequentially, while asynchronous programming allows code to run concurrently"
+      },
+      {
+        "question": "What is the DOM in web development?",
+        "answer": "Document Object Model, representing the structure of HTML documents"
+      }
+    ]
+  }
+  
